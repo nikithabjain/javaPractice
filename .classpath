@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/com/niki/|src/com/niki/dataStructures/|src/com/niki/dataStructures/heap/|src/com/niki/datastructures/heap/|src/com/" including="src/" kind="src" path=""/>
+	<classpathentry excluding="niki/dataStructures/heap/" kind="src" path="src/com"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
